@@ -1,0 +1,16 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+.nav {
+  height: 3rem;
+  background-color: lightblue;
+  display: flex;
+  padding-bottom: 1rem;
+  align-items: center;
+  justify-content:space-between;
+}
+
+.nav > a {
+  text-decoration: none;
+}

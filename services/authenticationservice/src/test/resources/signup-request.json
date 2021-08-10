@@ -1,0 +1,9 @@
+{
+  "username": "tuliasmita@gmail.com",
+  "password": "TuliAsmita123!",
+  "userAttributes": [
+    {"name": "name", "value": "tuliasmita"},
+    {"name": "profile", "value": "imagepath"},
+    {"name": "custom:department", "value": "HR"}
+  ]
+}
